@@ -1,5 +1,5 @@
 {
-    "titleMekke": "Yenilikler\n\n• Ezan vakitleri listesinin arayüzü güncellendi.\n\n• Kenar yuvarlaklıkları daha yumuşak hale getirildi.\n\n• Bazı cihazlarda today widget'ta kaza/kılındı kaydı eklenirken ekrana sığmama sorunu düzeltildi.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yenilikler\n\n• Today widget'ta bir sonraki vakti de belirgin olarak görebileceksiniz.\n\n• Kaza namazı grafiği ekranına kümülatif seçeneği eklendi. Son 4 yılda takviminize kaydettiğiniz tüm kaza namazlarınızı görebilirsiniz. Kaza namazlarınızı .csv dosyası şeklinde dışarı aktarma seçeneği çok yakında.\n\n• Yan ekranlardan kaydırmadan çıkabilmeniz için kapatma butonları eklendi.\n\n• Bir gün içinde beş vakit namazınızın hepsini kıldıysanız yıldız yağmuru animasyonuyla birlikte bir de ses efekti duyacaksınız.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
