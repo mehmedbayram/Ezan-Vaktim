@@ -1,5 +1,5 @@
 {
-    "titleMekke": "Yenilikler\n\n• Today widget'ta bir sonraki vakti de belirgin olarak görebileceksiniz.\n\n• Kaza namazı grafiği ekranına kümülatif seçeneği eklendi. Son 4 yılda takviminize kaydettiğiniz tüm kaza namazlarınızı görebilirsiniz. Kaza namazlarınızı .csv dosyası şeklinde dışarı aktarma seçeneği çok yakında.\n\n• Yan ekranlardan kaydırmadan çıkabilmeniz için kapatma butonları eklendi.\n\n• Bir gün içinde beş vakit namazınızın hepsini kıldıysanız yıldız yağmuru animasyonuyla birlikte bir de ses efekti duyacaksınız.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yenilikler\n\n• Kıble pusulası eklendi.\n\n• 2022 yılı ezan vakitleri ve dini/milli gün bilgileri eklendi.\n\n• Kaza namazlarınızı artık CSV dosyası halinde dışarı aktarabilirsiniz.\n\n• Hicri takvim eklendi. Ay butonuna basılı tutarak hicri-miladi takvimler arasında geçiş yapabilirsiniz.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
