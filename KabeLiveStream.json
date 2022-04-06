@@ -1,10 +1,10 @@
 {
-    "titleMekke": "Yenilikler\n\n• Özel olarak tasarlanmış ramazan imsakiyesini dışarı aktarıp çıktısını alabileceksiniz. A4 kağıt boyutlarına uygun olarak tasarlandı.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yenilikler\n\n • Kıble pusulasında tam ekran harita moduna geçiş yapabileceksiniz. Pusula ekranındayken Kâbe ikonuna basarak tam ekran moduna geçiş yapabilirsiniz. Tam ekran modundan çıkmak için Kâbe ikonuna bir kez daha basmanız yeterli. Telefonunuzu sallayarak da tam ekran moduna geçebilirsiniz. VR modu çok yakında.\n\n • PIP video modunda iftara, oruca veya namaza kalan süreleri görebileceksiniz. Hangi uygulamayı açarsanız açın, namaz vakitleri hep en önde görünecek. Sayaçlara tıkladığınızda aktif olacaktır. iOS 15 ve üstü gerektirir.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "linkMedine": "false",
+    "linkMedine": "true",
     
-    "titleDiyanet": "v4.6.0",
+    "titleDiyanet": "v4.7.0",
     "linkDiyanet": "https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8"
 }
