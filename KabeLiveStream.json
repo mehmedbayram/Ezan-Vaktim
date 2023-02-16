@@ -1,9 +1,9 @@
 {
-    "titleMekke": "Yenilikler\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yenilikler\n\n• Kandillerde bildirim alma özelliği eklendi.\n\n• Takvimde kandil günlerine tıklandığında bilgilendirici yazılara ulaşabilirsiniz.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "linkMedine": "false",
+    "linkMedine": "true",
     
     "titleDiyanet": "v5.5.0",
     "linkDiyanet": "https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8"
