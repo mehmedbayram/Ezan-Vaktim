@@ -1,10 +1,10 @@
 {
-    "titleMekke": "Yenilikler\n\n• Ayarlar ekranı güncellendi.\n\n• Ramazan gün sayacının uygulama yeniden başlatılmadan güncellenmemesi sorunu çözüldü.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yanlışlıkla bugünün Berat Kandili olduğuna dair bildirim gönderilen kullanıcılarımızdan özür dileriz. Bir sonraki güncellemede sorun düzeltilecektir. Güncelleme butonuna tıklamanıza gerek yoktur. Bu pencereyi kapatabilirsiniz. Hayırlı ramazanlar.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "linkMedine": "true",
     
-    "titleDiyanet": "v5.7.0",
+    "titleDiyanet": "ÖZÜR",
     "linkDiyanet": "https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8"
 }
