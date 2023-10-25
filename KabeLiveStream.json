@@ -1,10 +1,10 @@
 {
-    "titleMekke": "Yenilikler\n\n• Uygulama içerisinden geri bildirim gönderme özelliği eklendi. Ayarlardan ulaşabilirsiniz.\n\n• Today Widget ekranları iyileştirildi.\n\n• App Store yorum isteği ekranı eklendi.\n\n• İnternet yokken Kâbe ikonunun görünmemesiyle ilgili sorun düzeltildi.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "titleMekke": "Yenilikler\n\n• • iOS 17 için takvim izin kontrolü güncellendi.\n\n• • Yıllık ezan vakitleri ekranından da artık 'Kılındı' ve 'Kaza' kaydı ekleyebileceksiniz.\n\n•  Ayarlar'da namaz kayıtlarının hangi takviminize yapılması gerektiğini kendiniz belirleyebileceksiniz.\n\n• CSV ile dışa aktarma dosyasına ilgili kaydı hangi takviminize kaydettiğinizi gösteren 'Kaydedilen Takvim' adında yeni bir sütun eklendi.\n\n• Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "linkMekke": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     
     "titleMedine": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "linkMedine": "true",
     
-    "titleDiyanet": "v5.9.0",
+    "titleDiyanet": "v6.0.0",
     "linkDiyanet": "https://diyanet.blutv.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8"
 }
